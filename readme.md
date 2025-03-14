@@ -3,7 +3,7 @@
 this is the test program for c2 connection malware simulation
 
 
-remote command execution
+remote command execution only
 
 educational purposes only
 
