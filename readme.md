@@ -1,8 +1,13 @@
 # c2c
 
 this is the test program for c2 connection malware simulation
+
+
 remote command execution
+
 educational purposes only
+
+
 build 
 ```
 cargo build
